@@ -15,13 +15,13 @@ A comprehensive SaaS platform offering 7+ AI-powered tools for image and video g
 
 ### 🎯 AI Generation Tools (7 Tools)
 
-1. **[Text-to-Image](https://www.nanoart.app/text-to-image)** - Generate images from text descriptions using AI
-2. **[Remove Background](https://www.nanoart.app/remove-background)** - Automatically remove backgrounds from images
-3. **[Text-to-Video](https://www.nanoart.app/text-to-video)** - Create videos from text prompts (FAL.AI)
-4. **[Sora2 Text-to-Video](https://www.nanoart.app/sora2-text-to-video)** - Advanced video generation with OpenAI Sora-2
-5. **[Image-to-Video by Veo](https://www.nanoart.app/image-to-video-by-veo)** - Transform images into videos using Google Veo 3.1
-6. **[Image-to-Prompt](https://www.nanoart.app/image-to-prompt)** ⭐ - Analyze images and generate detailed prompts (OpenRouter + Gemini 2.5 Flash)
-7. **[Video-to-Prompt](https://www.nanoart.app/video-to-prompt)** ⭐ - Extract structured prompts from videos (Google AI Gemini)
+1. **[Text-to-Image](https://nanoart.app/text-to-image)** - Generate images from text descriptions using AI
+2. **[Remove Background](https://nanoart.app/remove-background)** - Automatically remove backgrounds from images
+3. **[Text-to-Video](https://nanoart.app/text-to-video)** - Create videos from text prompts (FAL.AI)
+4. **[Sora2 Text-to-Video](https://nanoart.app/sora2-text-to-video)** - Advanced video generation with OpenAI Sora-2
+5. **[Image-to-Video by Veo](https://nanoart.app/image-to-video-by-veo)** - Transform images into videos using Google Veo 3.1
+6. **[Image-to-Prompt](https://nanoart.app/image-to-prompt)** ⭐ - Analyze images and generate detailed prompts (OpenRouter + Gemini 2.5 Flash)
+7. **[Video-to-Prompt](https://nanoart.app/video-to-prompt)** ⭐ - Extract structured prompts from videos (Google AI Gemini)
 
 ### 💎 Platform Features
 
