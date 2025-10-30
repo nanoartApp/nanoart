@@ -53,8 +53,8 @@ Get up and running in 15 minutes:
 
 ```bash
 # Clone repository
-git clone https://github.com/sunpy1106/image-edit-tool.git
-cd image-edit-tool
+git clone https://github.com/nanoartApp/nanoart.git
+cd nanoart
 
 # Install dependencies
 npm install
@@ -94,8 +94,8 @@ Visit [http://localhost:3000](http://localhost:3000) to see your app!
 
 1. **Clone and Install**
    ```bash
-   git clone https://github.com/sunpy1106/image-edit-tool.git
-   cd image-edit-tool
+   git clone https://github.com/nanoartApp/nanoart.git
+   cd nanoart
    npm install
    ```
 
@@ -185,7 +185,7 @@ Visit [http://localhost:3000](http://localhost:3000) to see your app!
 ## 🏗️ Project Structure
 
 ```
-image-edit-tool/
+nanoart/
 ├── app/                           # Next.js App Router
 │   ├── api/                       # API routes
 │   │   ├── tools/                 # Tool-specific endpoints
@@ -393,7 +393,7 @@ This project is licensed under the MIT License.
 - 📧 **Email**: support@nanoart.app
 - 🐦 **Twitter**: [@nanoartApp](https://x.com/nanoartApp)
 - 📚 **Documentation**: [./docs/](./docs/)
-- 💬 **Issues**: [GitHub Issues](https://github.com/sunpy1106/image-edit-tool/issues)
+- 💬 **Issues**: [GitHub Issues](https://github.com/nanoartApp/nanoart/issues)
 - 🔨 **v0.app**: [Continue Building](https://v0.app/chat/projects/4KoFBz0X4A3)
 
 ---
