@@ -274,36 +274,6 @@ set -a && source .env.local && set +a && npx prisma db push
 
 📚 **[Prisma Migration Guide →](./PRISMA_MIGRATE.md)**
 
-### v0.app Integration
-
-This project is integrated with [v0.app](https://v0.app):
-- **Vercel Project**: [v0-image-edit-tool](https://vercel.com/sunpy1106s-projects/v0-image-edit-tool)
-- **Continue Building**: [v0.app Project](https://v0.app/chat/projects/4KoFBz0X4A3)
-
-## 💰 Credit System
-
-The platform uses a credit-based billing model:
-
-### Credit Costs per Action
-
-| Tool | Credits | Notes |
-|------|---------|-------|
-| Text-to-Image | 4 | Per image |
-| Remove Background | 4 | Per image |
-| Text-to-Video | 160+ | 40 credits/second (min 4s) |
-| Sora2 Video | 40-480 | 40 credits/4s to 480 credits/12s |
-| Image-to-Video | 214-320 | 8-12 seconds, +audio variations |
-| Image-to-Prompt | 1 | Per analysis |
-| Video-to-Prompt | 2 | Per analysis |
-
-### Subscription Plans
-
-- **Free**: 25 credits/month
-- **Pro Monthly**: 2000 credits/month
-- **Pro Yearly**: 2500 credits/month (best value)
-
-Credits do not roll over between billing periods.
-
 ## 🚀 Deployment
 
 ### Deploy to Vercel
